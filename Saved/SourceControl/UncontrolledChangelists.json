@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UE5/BritFire/Git/Content/Levels/Main_Menu.umap",
+				"C:/UE5/BritFire/Git/Content/Blueprints/Main_Menu_widget.uasset",
 				"C:/UE5/BritFire/Git/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset",
 				"C:/UE5/BritFire/Git/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset",
 				"C:/UE5/BritFire/Git/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
