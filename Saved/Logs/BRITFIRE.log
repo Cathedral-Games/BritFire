@@ -1984,3 +1984,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.12-19.17.42:703][142]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
 [2023.10.12-19.17.43:597][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2023.10.12-19.30.22:601][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.12-19.38.50:667][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.12-19.38.50:667][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.12-19.38.50:669][346]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_5C60BAB868FD08B201_1802860538
+[2023.10.12-19.38.50:681][346]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_5C60BAB868FD08B201_1802860538
+[2023.10.12-19.38.54:238][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.12-19.38.54:241][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.12-19.38.54:312][543]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JX/89W6B0L90S70VSZ0TF6Y86
+[2023.10.12-19.38.54:312][543]LogSavePackage: Moving '../../../../../../UE5/BritFire/Git/Saved/89W6B0L90S70VSZ0TF6Y86BC2CE23749B71A747E52CDA8AA57F163.tmp' to '../../../../../../UE5/BritFire/Git/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JX/89W6B0L90S70VSZ0TF6Y86.uasset'
+[2023.10.12-19.38.54:343][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 568 ms)
+[2023.10.12-19.38.54:348][543]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_5C60BAB868FD08B201_1802860538
+[2023.10.12-19.38.54:348][543]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_5C60BAB868FD08B201_1802860538
